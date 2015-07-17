@@ -1,5 +1,7 @@
 #react-validate-mixin
 
+[![NPM](https://nodei.co/npm/react-validate-mixin.png)](https://nodei.co/npm/react-validate-mixin/)
+
 ```
 npm install react-validate-mixin
 ```
