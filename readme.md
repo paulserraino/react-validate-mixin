@@ -13,6 +13,10 @@ var validate = require('react-validate-mixin');
 
 var Compoent = React.createClass({
   mixins: [validate],
+  foo: function () {
+    if ( this.isValid() )
+      // do something
+  },
   render: function () {
     return (<div></div>);
   }
