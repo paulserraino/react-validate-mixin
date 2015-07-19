@@ -1,8 +1,12 @@
 {
   "name": "react-validate-mixin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "react validation mixin",
   "main": "mixin.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulserraino/react-validate-mixin.git"
+  },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --compilers .:tests/compiler.js tests/*.js"
   },
