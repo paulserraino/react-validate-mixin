@@ -1,0 +1,27 @@
+{
+  "name": "react-validate-mixin",
+  "version": "0.0.1",
+  "homepage": "https://github.com/paulserraino/react-validate-mixin",
+  "description": "react validation mixin",
+  "main": "mixin.js",
+  "keywords": [
+    "react",
+    "validate",
+    "mixin"
+  ],
+  "authors": [
+    "Paul Serraino"
+  ],
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
