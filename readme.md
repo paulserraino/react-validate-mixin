@@ -5,6 +5,10 @@
 ```
 npm install react-validate-mixin
 ```
+or
+```
+bower install react-validate-mixin
+```
 
 ##Example
 
